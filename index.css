@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(193, 225, 255);
+  margin: 0;
+  align-items: center;
+  margin-top: 50px;
+}
+.qr-card {
+  background: white;
+  border: white 20px solid;
+  border-radius: 20px;
+  width: 30%;
+  height: 30%;
+  min-width: 300px;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: no-wrap;
+}
+h2,
+p {
+  padding: 2px 30px;
+}
+img {
+  border-radius: 10px;
+}
